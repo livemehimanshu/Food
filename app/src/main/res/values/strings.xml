@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="login">Login</string>
+    <string name="cafe_house">Cafe House</string>
+    <string name="registration">Registration</string>
+    <string name="allready_account">ALLREADY ACCOUNT</string>
+    <string name="todo">TODO</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="user_name">User Name</string>
+</resources>
